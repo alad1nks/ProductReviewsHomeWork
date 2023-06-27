@@ -1,4 +1,4 @@
-package org.example;
+package org.example.consts;
 
 public class Constants {
     public static final String POST = "POST";

@@ -1,4 +1,4 @@
-package org.example;
+package org.example.entities;
 
 public class ReviewRequest {
     private String message;
